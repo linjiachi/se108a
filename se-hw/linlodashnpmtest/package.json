@@ -1,0 +1,14 @@
+{
+  "name": "linlodnpmtest",
+  "version": "0.0.1",
+  "description": "\"I made a lodash of myself for fun!\"",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "MIT"
+}
