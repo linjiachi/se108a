@@ -1,6 +1,6 @@
 {
   "name": "linlodnpmtest",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "\"I made a lodash of myself for fun!\"",
   "main": "index.js",
   "directories": {
@@ -10,5 +10,13 @@
     "test": "mocha"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linjiachi/se108a.git"
+  },
+  "bugs": {
+    "url": "https://github.com/linjiachi/se108a/issues"
+  },
+  "homepage": "https://github.com/linjiachi/se108a#readme"
 }
